@@ -1,0 +1,33 @@
+# Credenciales — NUNCA subir al repo
+.env
+
+# Tus CVs y ofertas son datos personales — no se suben
+inputs/cv.txt
+inputs/oferta.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs y temporales
+*.log
+*.tmp

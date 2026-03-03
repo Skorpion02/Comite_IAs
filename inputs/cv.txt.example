@@ -1,0 +1,20 @@
+Pega aquí el texto de tu CV en formato plano.
+
+Ejemplo:
+---------
+Juan García
+juan@email.com | LinkedIn: linkedin.com/in/juangarcia
+
+EXPERIENCIA
+Empresa ABC — Desarrollador Backend (2021-2024)
+- Desarrollé APIs REST con Python y FastAPI
+- Migré base de datos de MySQL a PostgreSQL
+
+HABILIDADES
+Python, FastAPI, SQL, Docker, Git
+
+FORMACIÓN
+Grado en Ingeniería Informática — Universidad XYZ (2017-2021)
+
+IDIOMAS
+Español (nativo), Inglés (B2)
