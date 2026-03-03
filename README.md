@@ -78,6 +78,31 @@ comite-ias-evaluador-cv/
 | Groq (gratis) | Llama 3.1 8B Instant | 30k TPM | Sí |
 | LM Studio | Cualquier modelo local | Sin límite | No |
 
+---
+
 ## Licencia
 
 MIT — Basado en el ecosistema [CrewAI](https://github.com/crewAIInc/crewAI) (MIT License).
+
+---
+
+## 🤝 Contribuciones
+
+¡Contribuciones, issues y sugerencias son bienvenidas!  
+No dudes en abrir un issue o un pull request.
+
+---
+
+## 📬 Contacto
+
+Para dudas o sugerencias, abre un issue o contacta a través de [Skorpion02](https://github.com/Skorpion02).
+
+---
+
+⭐️ **Si te gustó este proyecto, ¡déjale una estrella!**
+
+---
+
+<div align="center">
+  <b>Hecho con ❤️ por Skorpion02</b>
+</div>
